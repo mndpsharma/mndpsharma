@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mndpsharma
 - 👀 I’m interested in ...web and android development
 - 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 intagaram username - mandeep.vashishth
 
 <!---
 mndpsharma/mndpsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
