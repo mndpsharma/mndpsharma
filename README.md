@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Mandeep</h1>
 <h3 >A passionate Computer Science Engineer</h3>
 
-- 🔭 I’m Interested in **Web and App Development**
+- 🔭 I’m Interested in **Software Development**
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
