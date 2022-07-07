@@ -3,7 +3,7 @@
 
 - 🔭 I’m Interested in **Software Development**
 
-- 🌱 I’m currently learning **Java and Kotlin**
+- 🌱 I’m currently learning **SQL and Microsoft AZURE**
 
 - 📫 How to reach me **mndpsharmav@gmail.com**
 
