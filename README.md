@@ -53,9 +53,3 @@
 </a>
 
 </p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=mndpsharma&show_icons=true&locale=en" 
-       alt="mndpsharma" />
-</p>
